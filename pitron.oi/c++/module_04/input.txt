@@ -1,0 +1,8 @@
+Create a class named Person where the class will have 
+properties name(string), height(float) and age(int). Make
+ a constructor and create a dynamic object of that class and
+  finally pass proper values using the constructor. 
+  
+  Create two objects of the Person class from question 
+  2-c and initialize them with proper value. Now compare
+   whose age is greater, and print his/her name.
