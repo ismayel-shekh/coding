@@ -1,0 +1,1 @@
+ printf("%d = %d\n ", ara[i], ara[j]);
